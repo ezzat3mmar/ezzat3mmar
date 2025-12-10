@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ezzat</h1>
-<h3 align="center">A passionate to electronics & communication Engineer from Egypt</h3>
+<h1 align="center">Hi 👋 I'm Ezzat</h1>
+<h3 align="center">A passionate to electronics & communication Engineer/h3>
 
 ### 🛠 Tech Stack
 
